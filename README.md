@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julien Tribouillier</h1>
-<h3 align="center">A passionate developper from France</h3>
+<h3 align="center">A passionate Ruby on Rails developper from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=popikadir" alt="popikadir" /> </p>
 
@@ -14,5 +14,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=popikadir&show_icons=true" alt="popikadir" />
 
 <p align="center">
-<a href="https://linkedin.com/in/julien tribouillier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="julien tribouillier" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/julien-tribouillier/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="julien-tribouillier" height="30" width="30" /></a>
 </p>
