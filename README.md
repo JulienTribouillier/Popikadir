@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Ruby on Rails developper from France</h3><br/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=popikadir" alt="popikadir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=popikadir" alt="popikadir" /> </p>
 
 
 - 🔭 I’m currently working on [wearethewords](https://github.com/We-Are-The-Words)
