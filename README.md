@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [wearethewords](https://github.com/We-Are-The-Words)
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS**
 
 
 - 📫 How to reach me **julien.tribouillier@gmail.com**</p>
